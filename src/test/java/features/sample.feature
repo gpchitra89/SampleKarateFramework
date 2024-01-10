@@ -13,7 +13,6 @@ Scenario: Declare and print variables
  *def d=(a*b);
  *print 'total amount->'+d
  
- 
  Scenario: Hello world scenario
 
  * print 'hello world'
