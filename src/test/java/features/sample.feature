@@ -10,6 +10,8 @@ Scenario: Declare and print variables
  *def b=30
  *def c=(a+b);
  *print 'total amount->'+c
+ *def d=(a*b);
+ *print 'total amount->'+d
  
  Scenario: Hello world scenario
 
